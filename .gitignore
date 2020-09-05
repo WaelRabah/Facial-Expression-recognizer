@@ -2,6 +2,5 @@ train/
 test/
 videos/
 model.png
-Facial_Expression_Training.ipynb
 facial_exp_recog_model.h5
 model_weights.h5
